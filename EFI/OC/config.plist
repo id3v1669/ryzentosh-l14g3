@@ -71,33 +71,23 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				IgQAeQA=
-				</data>
+				<data>IgQAeQA=</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>OemTableId</key>
-				<data>
-				AAAAAA==
-				</data>
+				<data>AAAAAA==</data>
 				<key>Replace</key>
-				<data>
-				IgAAeQA=
-				</data>
+				<data>IgAAeQA=</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>
-				AAAAAA==
-				</data>
+				<data>AAAAAA==</data>
 			</dict>
 			<dict>
 				<key>Base</key>
@@ -111,33 +101,23 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				IgABeQA=
-				</data>
+				<data>IgABeQA=</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>OemTableId</key>
-				<data>
-				AAAAAA==
-				</data>
+				<data>AAAAAA==</data>
 				<key>Replace</key>
-				<data>
-				IgAAeQA=
-				</data>
+				<data>IgAAeQA=</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>
-				AAAAAA==
-				</data>
+				<data>AAAAAA==</data>
 			</dict>
 			<dict>
 				<key>Base</key>
@@ -151,33 +131,23 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				IgEAeQA=
-				</data>
+				<data>IgEAeQA=</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>OemTableId</key>
-				<data>
-				AAAAAA==
-				</data>
+				<data>AAAAAA==</data>
 				<key>Replace</key>
-				<data>
-				IgAAeQA=
-				</data>
+				<data>IgAAeQA=</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>
-				AAAAAA==
-				</data>
+				<data>AAAAAA==</data>
 			</dict>
 			<dict>
 				<key>Base</key>
@@ -189,35 +159,25 @@
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
-				<data>
-				CE5CQ0YKAA==
-				</data>
+				<data>CE5CQ0YKAA==</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>OemTableId</key>
-				<data>
-				AAAAAA==
-				</data>
+				<data>AAAAAA==</data>
 				<key>Replace</key>
-				<data>
-				CE5CQ0YKAQ==
-				</data>
+				<data>CE5CQ0YKAQ==</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>
-				AAAAAA==
-				</data>
+				<data>AAAAAA==</data>
 			</dict>
 			<dict>
 				<key>Base</key>
@@ -231,33 +191,23 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				X09TSQ==
-				</data>
+				<data>X09TSQ==</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>OemTableId</key>
-				<data>
-				AAAAAA==
-				</data>
+				<data>AAAAAA==</data>
 				<key>Replace</key>
-				<data>
-				WE9TSQ==
-				</data>
+				<data>WE9TSQ==</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>
-				AAAAAA==
-				</data>
+				<data>AAAAAA==</data>
 			</dict>
 		</array>
 		<key>Quirks</key>
@@ -624,7 +574,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooInput</string>
 				<key>MaxKernel</key>
@@ -714,7 +664,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooPS2Mouse</string>
 				<key>MaxKernel</key>
@@ -732,7 +682,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooPS2Trackpad</string>
 				<key>MaxKernel</key>
@@ -750,7 +700,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooInput</string>
 				<key>MaxKernel</key>
