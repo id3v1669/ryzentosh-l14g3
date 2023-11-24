@@ -24,6 +24,19 @@
 | Sleep State | Linux S3 | - |
 | CPU Power Management | Enabled | - |
 
+## What's working?
+- wifi
+- bluetooth
+- trackpoint
+- gpu acceleration
+- buttons near touchpad
+
+## What's broken?
+- touchpad
+- brightness buttons
+- sleep
+- ...other to check
+
 ## Acknowledgement
 Apple for macOS
 
