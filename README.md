@@ -1,13 +1,13 @@
 # Lenovo Thinkpad L14 Gen3(amd) Opencore Hackintosh
 
 ## Notes
-1. Work in progress. Boots, but mostly broken
+1. Work in progress. Boots, but mostly broken. On firefox start system creash.
 
 ## Hardware
 | Item | Brand | Model | Driver | Comment |
 |-----|-----|-----|-----|-----|
 | Motherboard | Lenovo | L14 Gen3 | - | - |
-| CPU | AMD | r7-5875U | | |
+| CPU | AMD | r7-5875U | - | - |
 | RAM | - | 2x32GB DDR4 3200 | - | - |
 | APU | AMD | Vega | NootedRed | - |
 | SSD1 | Lenovo | 512 Gb | - | Main SSD Mac OS |
@@ -30,10 +30,10 @@
 - trackpoint
 - gpu acceleration
 - buttons near touchpad
+- brightness buttons
 
 ## What's broken?
 - touchpad
-- brightness buttons
 - sleep
 - ...other to check
 
