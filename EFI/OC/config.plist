@@ -496,7 +496,15 @@
 	<key>DeviceProperties</key>
 	<dict>
 		<key>Add</key>
-		<dict/>
+		<dict>
+			<key>PciRoot(0x1)/Pci(0x8,0x1)/Pci(0x0,0x6)</key>
+			<dict>
+				<key>layout-id</key>
+				<data>
+				EgAAAA==
+				</data>
+			</dict>
+		</dict>
 		<key>Delete</key>
 		<dict/>
 	</dict>
@@ -2133,7 +2141,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 alcid=18 -vi2c-force-polling</string>
+				<string>-v keepsyms=1 debug=0x100 -vi2c-force-polling</string>
 				<key>csr-active-config</key>
 				<data>
 				AAAAAA==
