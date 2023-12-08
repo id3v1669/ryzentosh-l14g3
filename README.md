@@ -16,7 +16,7 @@
 | Bluetooth | Intel | - | [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | Default module replacement |
 | Ethernet | RTL8111 | - | [RealtechRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X) | - |
 | Audio | - | - | [AppleALC](https://github.com/acidanthera/AppleALC) | Layout in DeviceProps |
-| Touchpad | - | ELAN via HID | [VoodooI@C](https://github.com/VoodooI2C/VoodooI2C) | latest buld from master with -vi2c-force-polling |
+| Touchpad | - | ELAN via HID | [VoodooI2C](https://github.com/VoodooI2C/VoodooI2C) | latest buld from master with -vi2c-force-polling |
 
 
 ## BIOS Setup
