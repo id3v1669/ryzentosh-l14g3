@@ -15,7 +15,7 @@
 | Wifi | Intel | - | [AirportItlwm](https://github.com/OpenIntelWireless/itlwm) | Default module replacement |
 | Bluetooth | Intel | - | [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | Default module replacement |
 | Ethernet | RTL8111 | - | [RealtechRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X) | - |
-| Audio | - | - | [AppleALC](https://github.com/acidanthera/AppleALC) | Layout in DeviceProps |
+| Audio | - | - | [AppleALC](https://github.com/acidanthera/AppleALC) with [patch](https://github.com/acidanthera/AppleALC/commit/9bab6f29fb0efd75aecba2d69cfe3a3c12eb0c22) | Layout in DeviceProps |
 | Touchpad | - | ELAN via HID | [VoodooI2C](https://github.com/VoodooI2C/VoodooI2C) | latest buld from master with -vi2c-force-polling |
 
 
@@ -35,6 +35,7 @@
 - buttons near touchpad
 - brightness buttons
 - type-c docking
+- microphone
 
 ## What's broken?
 - sleep
