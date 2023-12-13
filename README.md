@@ -38,8 +38,9 @@
 - microphone
 
 ## What's broken?
-- sleep
-- firefox
+- sleep(doesn't wake up), to be fixed later
+- firefox(causes system crash), assume gpu acceleration glitch
+- airdrop(menu exists, but doesn't work) as far as I know unfixable
 
 ## To test
 - virtualization
